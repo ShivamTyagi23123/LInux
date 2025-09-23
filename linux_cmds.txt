@@ -1,0 +1,7 @@
+ls -l
+pwd
+cd ..
+mkdir new_folder
+rm filename
+cat filename
+echo "Hello, Linux"
